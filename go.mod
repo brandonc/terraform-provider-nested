@@ -1,4 +1,4 @@
-module github.com/alisdair/terraform-provider-nested
+module github.com/brandonc/terraform-provider-nested
 
 go 1.17
 

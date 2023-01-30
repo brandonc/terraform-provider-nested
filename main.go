@@ -16,7 +16,7 @@ import (
 
 func main() {
 	opts := providerserver.ServeOpts{
-		Address: "registry.terraform.io/alisdair/nested",
+		Address: "registry.terraform.io/brandonc/nested",
 	}
 
 	err := providerserver.Serve(context.Background(), func() provider.Provider {

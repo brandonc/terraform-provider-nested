@@ -16,7 +16,7 @@ This provider is intended to be used for testing Terraform's implementation of n
 terraform {
   required_providers {
     nested = {
-      source = "alisdair/nested"
+      source = "brandonc/nested"
     }
   }
 }
